@@ -1,0 +1,25 @@
+body{
+    background-color: bisque;
+}
+
+h1{
+    font-family:sans-serif;
+    font-size: 25px;
+    color:white;
+    text-align: center;
+}
+
+span{
+    text-align: center;
+    color: white;
+}
+
+div {
+    width: 50%;
+    height: 50%;
+    color: pink;
+    background-color: white;
+    margin:auto;
+    text-align: center;
+    padding: 20px;
+}
